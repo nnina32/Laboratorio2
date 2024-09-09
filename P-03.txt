@@ -1,0 +1,15 @@
+TypeScript es un conjunto de javaScript que añade tipado estatico opcional y funciones avanzadas de javaScript.
+
+*tipado estatico.- que permita especificar el tipo de variables y paramentros de funciones en tiempo de compilacion.
+*tipado opcional .- proporciona flexibilidad a la hora de elegir entre utilizar tipado estatico o no.
+*funciones ES6+.-es  compatible con las funciones modernas de JavaScript, incluidas las introducidas en ECMAScript 6 (ES6) y versiones posteriores.
+*Organizacion de codigo.-organizar el código en archivos separados y gestionar las dependencias puede convertirse en un reto a medida que crece la base de código.
+*Programacion orientada a objetos.- admite conceptos de OOP como clases, interfaces y herencia, lo que permite un código estructurado y organizado.
+*Sistema de tipos Avanzados.- proporciona un sistema de tipos avanzado que admite genéricos, uniones, intersecciones y mucho más. Estas características mejoran las capacidades de comprobación estática de tipos de TypeScript, permitiendo a los desarrolladores escribir código más robusto y expresivo.
+*Compatibilidad con java Script.- está diseñado para ser un superconjunto de JavaScript, lo que significa que cualquier código JavaScript válido es también código TypeScript válido. Esto facilita la integración de TypeScript en proyectos JavaScript existentes sin tener que reescribir todo el código.
+
+diferencias entre TypeScript javaScript 
+TypeScript dispone de una escritura estática, mientras que JavaScript es un lenguaje dinámico.
+JavaScript no admite módulos, mientras que TypeScript sí que les da soporte.
+TypeScript dispone de interfaz, mientras que JavaScript no.
+En TypeScript sí que hay que compilar el código, en JavaScript no es necesario.

@@ -1,0 +1,12 @@
+Templates strings 
+son cadenas literales que habilitan el uso de expresiones incrustadas. con ellas es posible  utilizar cadenas de caracteres de mas de una lines.
+estan se delimitan con el tilde o comilla inversa en lugar de las comillas simples o dobles.
+Caracteristicas
+* sintaxis de template string.- Para crear una template string, utilizamos el acento grave (`) como delimitador de apertura y cierre
+*Interpolacion de  cadenas de texto.- La interpolación de valores es la característica más útil de las template strings. Permite combinar literales de cadena con valores de variables de manera más concisa.
+*Escritura de codigo multilinea.-Las template strings también nos permiten escribir cadenas de texto en varias líneas sin necesidad de concatenar manualmente
+*imprimir expresiones.- nos permite imprimir expresiones para que el codigo se vea mas ordenado y comprencible
+
+type string y la diferencia entre comillas simplesy dobles 
+se utiliza template string cuando deseamos construir cadenas de texto que incluyan valores variables, estas trabanjan con interpolacion, codigo miltilinea y realiaza la impresion de espresiones con el signo de dolar  ${} 
+utilizamos comillas simples o dobles cuando queremos definir cadenas de texto estaticas y sencillas,sirve para cadenas de una sola linea, no permite interpolacion.
